@@ -1,0 +1,6 @@
+OdaTiyatrosu
+4
+Client1,10,10,1
+Client2,50,10,2
+Client3,80,10,3
+Client4,120,10,4

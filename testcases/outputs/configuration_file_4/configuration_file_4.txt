@@ -1,0 +1,10 @@
+Welcome to the Sync-Ticket!
+Teller A has arrived.
+Teller B has arrived.
+Teller C has arrived.
+Client5 requests seat 200, reserves seat 200. Signed by Teller A.
+Client4 requests seat 200, reserves seat 1. Signed by Teller B.
+Client3 requests seat 200, reserves seat 2. Signed by Teller C.
+Client2 requests seat 200, reserves seat 3. Signed by Teller A.
+Client1 requests seat 200, reserves seat 4. Signed by Teller B.
+All clients received service.

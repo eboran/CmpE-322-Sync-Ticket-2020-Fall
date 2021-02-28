@@ -1,0 +1,8 @@
+UskudarStudyoSahne
+6
+Client1,10,50,1
+Client2,10,60,1
+Client3,30,50,1
+Client4,30,60,1
+Client5,40,70,1
+Client6,50,70,1
