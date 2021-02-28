@@ -1,7 +1,7 @@
 
 # CmpE-322-Sync-Ticket - Project 2 
 
-# Running Simulation
+# Multi-Thread Programming
 
 * Run the project with these commands.
 
