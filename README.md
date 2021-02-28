@@ -1,4 +1,4 @@
-## CmpE-322-Sync-Ticket - Project 2 
+CmpE-322-Sync-Ticket - Project 2 
 
 ## Multithreaded Programming
 
