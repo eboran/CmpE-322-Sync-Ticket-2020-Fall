@@ -1,7 +1,7 @@
 
 # CmpE-322-Sync-Ticket - Project 2 
 
-# Emre Boran - 2019700162
+# Emre Boran
 
 # Running Simulation
 
