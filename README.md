@@ -1,8 +1,6 @@
 
 # CmpE-322-Sync-Ticket - Project 2 
 
-# Emre Boran
-
 # Running Simulation
 
 * Run the project with these commands.
